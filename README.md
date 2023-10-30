@@ -1,7 +1,7 @@
 # issueWhenCode_flutter
 issues when coding in flutter
 
-## 开发问题总结
+## 开发问题汇总
 
 ### 回到上一页并刷新
    A->B
