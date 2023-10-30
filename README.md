@@ -5,7 +5,9 @@ issues when coding in flutter
 
 ### 回到上一页并刷新
    A->B
+   
    B: context.pop(true)
+   
    A: 
       final bool? result = await context.push<bool>(A);
       if(result!=null&&result){
